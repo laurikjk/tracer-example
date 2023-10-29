@@ -1,0 +1,24 @@
+# Compiled C++ objects and shared libraries
+*.o
+*.so
+*.dylib
+
+# CMake generated files
+build/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# External Libraries
+pybind11/
+
